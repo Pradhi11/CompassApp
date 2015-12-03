@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\clock Check\CompassApp\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\clock Check\CompassApp\build\intermediates\pre-dexed\debug\android-support-v4-4424e28d121ba065651f0af00120b8c853092264.jar" />
+    </item>
+
+</items>
